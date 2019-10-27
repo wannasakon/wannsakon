@@ -1,2 +1,1 @@
-# sombats
-websource project repo for https://sombats.pythonanywhere.com
+# Wannasakon  http://wannasa.pythonanywhere.com/
